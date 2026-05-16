@@ -1,0 +1,6 @@
+---
+jenkins_repo_url: "https://pkg.jenkins.io/debian"
+jenkins_gpg_key_url: "https://pkg.jenkins.io/debian/jenkins.io-2023.key"
+jenkins_package: "jenkins"
+java_package: "openjdk-17-jdk"
+
